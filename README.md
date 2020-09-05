@@ -5,4 +5,4 @@ In this project, the U-Net architecture is implemented according to the scientif
 
 ## Run
 ```python unet.py```
-![](imgs/unet_img_2.jpg)
+
